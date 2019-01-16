@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mon jardin
+Comment=Mon jardin
+Exec=./jardin.py
+Icon=C:\Users\LENOVO ThinKPad\mon-jardin-master\mon_jardin/images/mon_jardin.png
+Path=
+Terminal=false
+StartupNotify=false
