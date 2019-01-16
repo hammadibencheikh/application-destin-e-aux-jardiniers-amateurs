@@ -1,0 +1,10 @@
+mon projet est un application destinée aux jardiniers amateurs elle comprend: 
+-un gestionnaire de légumes,
+-un gestionnaire de fruits,
+-une photothèque,
+-un calendrier couplé à un agenda,
+-un logiciel de type « post-it ».
+pour lancer l'application il faut exécuter le fichier jardin.py
+ps: si il'ya un problem il faut telecharger le package 'pil' pour lancé les images 
+pour telecharger le projet:
+https://www.mediafire.com/file/pq4344c94alw45k/hamadibencheikh.rar/file 
